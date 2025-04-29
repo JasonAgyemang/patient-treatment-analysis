@@ -38,6 +38,8 @@ While many patients have sperm counts sufficient for natural conception, overloo
 
 ## Future Improvements
 - Implement predictive modeling to forecast likelihood of treatment acceptance based on patient parameters.
+
+  Note: Due to privacy and confidentiality, the original patient dataset is not available for public sharing.
 - Use Python (pandas, matplotlib) to automate and enhance the analysis and visualizations.
 - Expand the study with multi-year patient datasets for trend analysis.
 
